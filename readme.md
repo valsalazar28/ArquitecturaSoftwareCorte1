@@ -199,3 +199,6 @@ Método DELETE
 Retorna:
 Se ha elimiando la tarea de usuario
 
+![Base de datos - Arquitectura Software C1](https://github.com/valsalazar28/ArquitecturaSoftwareCorte1/assets/141972527/2f2e92e2-e463-4ed3-9c6a-2f2a60298224)
+
+
